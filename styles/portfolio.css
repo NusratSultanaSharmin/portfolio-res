@@ -88,8 +88,9 @@ main{
 
 }
 .section-title{
+    text-align: center;
     font-weight: 700;
-    font-size: 35px;
+    font-size: 50px;
 
 }
 .section-description{
@@ -112,3 +113,28 @@ main{
     font-size: 20px;
     color: #474747;
 }
+/* what i do */
+.what-i-do{
+    margin-top: 130px;
+
+}
+.slill{
+    background:#FFFFFF;
+    box-shadow: 0 6px 50px rgb(0, 0 ,0,0.96);
+    border-radius:5px;
+    padding:30px;
+}
+.skills-container{
+    display: flex;
+    gap:24px;
+}
+.skill-title{
+    font-weight:700;
+    font-size:20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.skill-description{
+    color:#474747
+}
+/* resume style */
